@@ -6,7 +6,7 @@ Background in mechanical engineering and business administration which probably 
 
 ---
 
-### Currently building
+### Public Works
 
 **MCP servers for French public data** — making official datasets directly queryable from Claude and other MCP-compatible clients:
 
@@ -29,5 +29,5 @@ LLM applications in production · MCP and agent design · Evaluation frameworks 
 ### Get in touch
 
 - Hugging Face: [@Qdonnars](https://huggingface.co/Qdonnars)
-- LinkedIn: [@Quentin Donnars](https://huggingface.co/Qdonnars](https://www.linkedin.com/in/quentin-donnars/)
+- LinkedIn: [https://huggingface.co/Qdonnars](https://www.linkedin.com/in/quentin-donnars]
 - Based in Marseille — always up for a coffee if you're working on AI/data in the PACA region.
