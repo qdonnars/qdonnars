@@ -2,7 +2,7 @@
 
 Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseille. I split my time between leading client AI/data engagements and building open-source tools that connect modern AI tooling to French public data.
 
-Background in mechanical engineering and business administration — which probably shows in how I approach problems: pragmatic, system-oriented, allergic to over-engineering.
+Background in mechanical engineering and business administration which probably shows in how I approach problems: pragmatic, system-oriented, allergic to over-engineering.
 
 ---
 
@@ -14,9 +14,9 @@ Background in mechanical engineering and business administration — which proba
 - [MCP Data Foncier](https://huggingface.co/spaces/Qdonnars/MCP_data_foncier) — French land and real estate data
 - [MCP Indicators](https://huggingface.co/spaces/Ekimetrics/MCP_indicators) — Ecological indicators by region and theme
 
-**[OpenWind](https://github.com/qdonnars/open_wind)** — A weather and sailing app built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus). Also my main testbed for serious Claude Code agentic workflows.
+**[OpenWind](https://github.com/qdonnars/open_wind)** - A weather and sailing app built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus). Also my main testbed for serious Claude Code agentic workflows.
 
-**[Spinoza](https://huggingface.co/spaces/SpinozaProject/spinoza_public)** — Multi-source agentic QA system, with a public [companion dataset](https://huggingface.co/datasets/SpinozaProject/spinoza-database).
+**[Spinoza](https://huggingface.co/spaces/SpinozaProject/spinoza_public)** - Multi-source agentic QA system, with a public [companion dataset](https://huggingface.co/datasets/SpinozaProject/spinoza-database).
 
 ---
 
@@ -29,5 +29,5 @@ LLM applications in production · MCP and agent design · Evaluation frameworks 
 ### Get in touch
 
 - Hugging Face: [@Qdonnars](https://huggingface.co/Qdonnars)
-- LinkedIn: [add your URL here]
+- LinkedIn: [@Quentin Donnars](https://huggingface.co/Qdonnars](https://www.linkedin.com/in/quentin-donnars/)
 - Based in Marseille — always up for a coffee if you're working on AI/data in the PACA region.
