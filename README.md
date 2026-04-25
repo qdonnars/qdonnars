@@ -12,10 +12,9 @@ Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseil
 - [MCP Data Foncier](https://huggingface.co/spaces/Qdonnars/MCP_data_foncier) — French land and real estate data
 - [MCP Indicators](https://huggingface.co/spaces/Ekimetrics/MCP_indicators) — Ecological indicators by region and theme
 
-**[OpenWind](https://github.com/qdonnars/open_wind)** - A weather and sailing app built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus). Also my main testbed for serious Claude Code agentic workflows.
+**[OpenWind](https://github.com/qdonnars/open_wind)** - A weather and sailing app built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus).
 
-**[Spinoza](https://huggingface.co/spaces/SpinozaProject/spinoza_public)** - Multi-source agentic QA system, with a public [companion dataset](https://huggingface.co/datasets/SpinozaProject/spinoza-database).
-
+**[Spinoza](https://huggingface.co/spaces/SpinozaProject/spinoza_public)** - Multi-source QA systemprototype, for Journaliism in collaboration with RSF.
 ---
 
 ### Topics I care about
