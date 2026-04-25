@@ -1,8 +1,6 @@
 ### Hi, I'm Quentin
 
-Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseille. I split my time between leading client AI/data engagements and building open-source tools that connect modern AI tooling to French public data.
-
-Background in mechanical engineering and business administration which probably shows in how I approach problems: pragmatic, system-oriented, allergic to over-engineering.
+Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseille. I split my time between leading client AI/data engagements and building tools that connect modern AI tooling for my clients.
 
 ---
 
@@ -30,4 +28,4 @@ LLM applications in production · MCP and agent design · Evaluation frameworks 
 
 - Hugging Face: [@Qdonnars](https://huggingface.co/Qdonnars)
 - LinkedIn: https://www.linkedin.com/in/quentin-donnars
-- Based in Marseille — always up for a coffee if you're working on AI/data in the PACA region.
+- Based in Marseille & Paris : always up for a coffee if you're working on AI/data in the PACA region.
