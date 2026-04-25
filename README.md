@@ -15,6 +15,7 @@ Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseil
 **[OpenWind](https://github.com/qdonnars/open_wind)** - A weather and sailing app built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus).
 
 **[Spinoza](https://huggingface.co/spaces/SpinozaProject/spinoza_public)** - Multi-source QA systemprototype, for Journaliism in collaboration with RSF.
+
 ---
 
 ### Topics I care about
