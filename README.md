@@ -6,7 +6,7 @@ Data Scientist Manager at [Ekimetrics](https://ekimetrics.com), based in Marseil
 
 ### Public Works
 
-**[OpenWind](https://github.com/qdonnars/open_wind)** : A weather and sailing app and MCP built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus).
+**[OhMyWind](https://github.com/qdonnars/ohmywind)** : A weather and sailing app and MCP built on open marine data sources (Météo-France Marine, NOAA, SHOM, Copernicus).
 
 **MCP servers for French public data** — making official datasets directly queryable from Claude and other MCP-compatible clients:
 - [MCP CO2](https://huggingface.co/spaces/Ekimetrics/MCP_CO2) : ADEME environmental impact data (Base Carbone, Agribalyse)
